@@ -3,14 +3,14 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=CODER;SECURITY+GUY;AUTOMATION;HOME+NETWORK+HOBBYIST;" /></a>
 </p>
 
-<!-- ## 📙 Some of my open source projects -->
+## 📙 Some of my open source projects
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
-<!-- <p align="left">
-  <a href="https://github.com/NginxProxyManager/nginx-proxy-manager"><img width="270" alt="Nginx Proxy Manager" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NginxProxyManager&repo=nginx-proxy-manager&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/jc21/dnsrouter"><img width="270" alt="dnsrouter" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jc21&repo=dnsrouter&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/jc21/juxtapose"><img width="270" alt="Juxtapose" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jc21&repo=juxtapose&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
-</p>-->
+<p align="left">
+  <a href="https://github.com/olizimmermann/CHunt"><img width="270" alt="CHunt" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=CHunt&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/olizimmermann/echodns"><img width="270" alt="echodns" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=echodns&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/olizimmermann/tbot"><img width="270" alt="tbot" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=tbot&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+</p>
 
 <!-- https://github.com/badges/shields -->
 <p align="left">
