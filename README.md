@@ -6,14 +6,14 @@
 ## 📙 Some of my open source projects
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/olizimmermann/CHunt"><img width="270" alt="CHunt" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=CHunt&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/olizimmermann/echodns"><img width="270" alt="echodns" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=echodns&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/olizimmermann/tbot"><img width="270" alt="tbot" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=tbot&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
 </p>
 
 <!-- https://github.com/badges/shields -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/olizimmermann?tab=repositories"><img alt="All my Repos" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
 </p>
 
@@ -26,9 +26,10 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 GitHub Profile Stats
-
+<p align="center">
 <a href="#"><img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=olizimmermann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="192px" /></a>
-<a href="#"><img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olizimmermann&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="192px" /></a>
+<!-- <a href="#"><img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olizimmermann&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="192px" /></a> -->
+</p>
 <br />
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
