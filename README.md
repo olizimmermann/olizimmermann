@@ -7,7 +7,7 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-  <a href="[https://github.com/olizimmermann/pangolin_rule_updater"><img width="270" alt="CHunt" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=pangolin_rule_updater&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/olizimmermann/pangolin_rule_updater"><img width="270" alt="CHunt" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=pangolin_rule_updater&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/olizimmermann/s3dns"><img width="270" alt="s3dns" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=s3dns&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/olizimmermann/alwayshue"><img width="270" alt="tbot" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olizimmermann&repo=alwayshue&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
 </p>
